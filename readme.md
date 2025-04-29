@@ -1,4 +1,4 @@
-# ShopEase
+# ShopEase - Amazon Frontend Clone
 
 ![ShopEase Logo](images/amazon-logo.png)
 
